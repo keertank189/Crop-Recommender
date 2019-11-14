@@ -1,0 +1,413 @@
+Origin	
+Management Minimum rate	
+Maximum rate
+
+Cereals		
+Wheat / Wheat		
+Mexican / Mexican (*)	2400	2400
+Red / Red (*)	2129	3219
+White / White (*)	2107	3069
+HD / Hybrid (*)	2300	2300
+Jawari / Jawari (*)	1560	5000
+Local / Local (*)	1809	3200
+Medium / Medium (*)	1820	3000
+Mill Wheat / Mill Wheat (*)	3000	3600
+Sharabathi / Sharabati (*)	1776	2676
+Other / Other (*)	2070	2583
+Paddy / Paddy		
+Paddy / Paddy-1 (*)	611	3400
+IR 20 / IR20 (*)	1700	1700
+IR 64 / IR64 (*)	1300	1653
+Sanna Bhatta / Small Paddy (*)	1680	2000
+Paddy Sona / Paddy Sona (*)	1400	2750
+Sona Mahsuri / Sona Masuri (*)	1511	1511
+Jaya / Jaya (*)	1550	1572
+Paddy Dappa / Paddy Bold (*)	1550	1750
+Paddy Jyoti / Paddy Jyoti (*)	1750	1800
+Paddy Fine Variety / Good (*)	1800	3410
+Paddy Medium Variety / Medium (*)	1200	2153
+Hansa / Swan (*)	1500	1850
+Sona Masuri Old / Old Sona Masuri (*)	2000	2940
+Sona Masuri New / New Sona Masuri (*)	1700	2400
+Rice / rice		
+Coarse / Bold (*)	2000	2900
+CR 1009 (Coarse) Boiled / CR1009 (Medium) (*)	1890	5500
+Fine / Good (*)	3200	7300
+IR 20 Fine Raw / IR20 Good (*)	2650	3250
+IR 20 / IR20 (*)	2680	3250
+IR-8 / IR.8 (*)	2400	2750
+Medium / Medium (*)	2084	6000
+Sona Masuri Old / Old Sona Masuri (*)	7600	8700
+IR - 64 / IR64 (*)	2650	3415
+Sona Fine / Sona Good (*)	2650	3400
+Sona Medium / Sona Medium (*)	3300	3750
+Sona / Sona (*)	4000	5850
+Kattasambar (*)	2800	3050
+Broken Rice	1400	2800
+Dappa / Bold (*)	1800	1800
+Hansa / Swan (*)	2500	2800
+Other / Other (*)	2000	3500
+Maize / Maize		
+Hybrid / Local / Hybrid Local (*)	950	3600
+Local / Local (*)	1290	4200
+Yellow / Yellow (*)	1300	2400
+Sweet Corn (For Biscuits) / Sweet Corn (*)	2026	2026
+Other / Other (*)	1000	1000
+Jowar / corn		
+Jowar (White) / Corn White (*)	1103	4500
+Local / Local (*)	1200	3800
+Jowar Hybrid / Hybrid Corn (*)	1121	2777
+Hybrid / Hybrid (*)	1400	1900
+Other / Other (*)	2650	2650
+Bajra / outfit		
+Hybrid / Hybrid (*)	601	3100
+Local / Local (*)	1300	1900
+Barley / Barley		
+Local / Local (*)	3020	3100
+Ragi / millet		
+Fine / Good (*)	2200	3200
+Local / Local (*)	1700	3000
+Red / Red (*)	1990	3000
+Medium / Medium (*)	1600	1600
+Medium Fine / Medium Good (*)	2100	2100
+Other / Other (*)	2111	2160
+Navane / Navigation		
+Navane Hybrid / Innovation Hybrid (*)	2568	3600
+Other / Other (*)	2609	6400
+Same / Savi / Same / Savvy		
+Same / Savi Local / Same / Savvy (*)	2809	2809
+Sajje / Sage		
+Sajje / Sage (*)	1224	1675
+Drugs & Narcotics		
+Arecanut / nut		
+Red / Red (*)	22000	23000
+Sippegotu / peel (*)	8569	12829
+Bilegotu / White Got (*)	9589	20299
+Api / Api (*)	33100	35079
+Kempugotu / Red Fort (*)	14699	23299
+Coca / Coca (*)	4218	22000
+Bette / Bette (*)	18000	36840
+Saraku / freight (*)	40009	60596
+Gorabalu / Hoof (*)	16001	24521
+Tattibettee / Tattibette (*)	23699	29841
+Chippu / Shell (*)	17109	19099
+Rashi / Rashi (*)	18891	34809
+Factory / Factory (*)	7099	12326
+New Variety / New Variety (*)	15800	28000
+EDI / Eady (*)	22369	34599
+Old Variety / Wold Variety (*)	24000	30000
+Chali / Chali (*)	20199	24692
+ARECANUT-HUSK / Arecanut Husk (*)	2600	2600
+Hosa Chali / New Chali (*)	17322	25019
+Hale Chali / Old Chali (*)	23000	27300
+Other / Other (*)	9000	46000
+Betal Leaves		
+Local / Local (*)	2000	4000
+Dry Fruits		
+Cashewnut / Cashew		
+Local (Raw) / Local (Raw) (*)	8300	10300
+Dry Grapes / Raisins		
+Dry Grapes / Currant (*)	17000	34000
+Fiber Crops		
+Cotton / Cotton		
+Suyodhar / Suyodhar (*)	5400	5500
+NH-44 COTTON / NH44 Cotton (*)	3019	5169
+BANNI / BANI (*)	4300	5755
+DCH-32 (Ginned) / DCH. (Jinnad) (*)	5525	5525
+DCH / DCH (*)	2200	6915
+(*)	1290	5726
+(*)	2525	6219
+Other / Other (*)	6150	6400
+Lint / Ale		
+Jaydhar / Jayadhar (*)	5125	5125
+Others / Other (*)	9980	10520
+Flowers		
+Crysanthamum / Chrysanthemum		
+Other / Other (*)	2000	2000
+Marygold /		
+Other / Other (*)	550	3000
+Forest Products		
+Soapnut / shrimp		
+Medium / Medium (*)	6000	10000
+Tamarind Seed / Tamarind		
+Tamarind Seed / Tamarind Seed (*)	1500	1700
+Tamarind Fruit / Tamarind		
+Tamarind Fruit / Tamarind (*)	5000	11000
+Fruits		
+Apple / apple		
+Kasmir / Shimla - II / Kashmir / Shimla-11 (*)	5916	5916
+Apple / Apple	5000	11000
+Orange / Orange		
+Orange / Orange (*)	3000	5000
+Banana / Banana		
+Medium / Medium (*)	2500	4500
+Nendra Bale (*)	1000	3300
+Pachha Bale / Emerald (*)	600	2600
+Elakki Bale / Cardamom Banana (*)	1000	4700
+Nauti Bale / Planting Banana (*)	700	1900
+Other / Other (*)	1800	2700
+Pine Apple / Pineapple		
+Pine Apple / Pineapple (*)	1000	4200
+Grapes / Grapes		
+Black / Black (*)	1900	3500
+White / White (*)	2000	4000
+Chikoos (Sapota) / Sapota		
+Sapota (*)	1000	3500
+Papaya / Papaya		
+Papaya / Papaya (*)	500	2500
+Water Melon / Watermelon		
+Water Melon / Watermelon (*)	600	2200
+Mousambi / Moosambi		
+Mousambi / Mossambi (*)	2500	5500
+Karbuja / watermelon		
+Karbhuja (*)	800	1600
+Borehannu / Borer		
+Borehannu / Borefruit (*)	1000	2000
+Pomagranate / pomegranate		
+Pomogranate / Pomegranate (*)	5000	9500
+Seethaphal / Seethaphala		
+Seethaphal / Seethaphala (*)	1000	3000
+Live Stock / Poultry		
+Cow (For Each) / Cow		
+Cow (*)	22000	90000
+Ox (For Each) / ox		
+Ox / ox (*)	20000	88000
+Bull (For Each) / Hori		
+Bull / Horry (*)	18000	58000
+Calf (For Each) / Calf		
+Other / Other (*)	25000	40000
+He Baffalo (For Each) / Room		
+He Baffelo / Room (*)	7000	13000
+She Baffalo (For Each) / Buffalo		
+She Baffelo / Buffalo (*)	9000	60000
+Sheep (For Each) / Sheep		
+Sheep Small / Sheep Small (*)	2000	10350
+Sheep Medium / Sheep Medium (*)	2400	10000
+Sheep Large / Sheep Large (*)	7000	8000
+Goat (For Each) / Goat		
+Goat / Goat (*)	1500	11000
+Ram (For Each) / ram		
+Ram / Town (*)	2000	9000
+Oil Seeds		
+Groundnut / peanuts		
+Big (With Shell) / Peanuts (*)	2609	8139
+Gungri (With Shell) / Gungri (*)	3100	4345
+Gejje / Peanuts (*)	1889	7766
+Natte / Naughty (*)	2651	7982
+Other / Other (*)	3309	8069
+Sesamum / sesame		
+Red / Red (*)	11111	11111
+White / White (*)	2650	10800
+Black / Black (*)	7519	12500
+Mustard / Sasuke		
+Other / Other (*)	3001	5100
+Soyabeen / Soyabeen		
+Yellow / Yellow (*)	3440	3505
+Soyabeen / Soybean (*)	2305	3500
+Other / Other (*)	3500	3500
+Sunflower / sun radiance		
+Sunflower / Sunflower (*)	2160	4080
+Local / Local (*)	3321	4054
+Hybrid / Hybrid (*)	2819	3840
+Other / Other (*)	4000	4000
+Safflower / safflower		
+Safflower / Safflower (*)	2540	5801
+Niger Seed / Insane		
+Niger Seed / Insane (*)	4500	7000
+Gingelly / sesame		
+Other / Other (*)	6500	6500
+Castor Seed / Seedling		
+Castor seed / Castor seed (*)	4900	5100
+Neem Seed / Neem seed		
+Neem Seed / Seed Seed (*)	2200	3000
+Copra / Coconut		
+Copra / Coconut (*)	5000	18000
+Medium / Medium (*)	13000	13500
+Small / Small (*)	10000	11800
+Ball / Ball (*)	12400	13500
+Milling / Milling (*)	6089	10200
+Other / Other (*)	4000	13000
+Groundnut Seed / Peanut Seed		
+Ground Nut Seed / Raspberry Seed (*)	9900	14200
+Gurellu / Gurell		
+Gurellu / Gurell (*)	4259	5319
+Other		
+Coconut (Per 1000) / Coconut		
+IISort without Husk / ll Sarat Without Husk (*)	7500	16000
+Grade-I / Grade-l (*)	8000	27000
+Grade-II / Grade-ll (*)	6000	14000
+Coconut / Coconut (*)	6	22000
+Big / Large (*)	10000	19000
+Medium / Medium (*)	8000	14000
+Small / Small (*)	5700	10000
+Other / Other (*)	10000	20000
+Jaggery / Bella		
+Achhu / mold (*)	3100	4200
+Mudde / lump (*)	3200	5000
+Unde / Unde (*)	2000	5300
+Yellow / Yellow (*)	2900	3500
+Kurikatu / Kurikattu (*)	2800	3300
+PENTI / PENTI (*)	2580	3650
+Other / Other (*)	2400	4600
+Tender Coconut / Blue Water		
+Tender Coconut / Blue Water (*)	4000	23000
+Coco Brooms / Coconut Stick		
+Coco Brooms / Coconut Stick (*)	1000	2500
+Pulses		
+Bengalgram / peanut		
+Average (Whole) / Average (ED) (*)	3239	5800
+Jawari / Local / Jawari / Local (*)	1610	6000
+Other / Other (*)	3200	5400
+Blackgram / Long leg		
+Black Gram (Whole) / Long grain (*)	2600	7500
+Greengram / Nameserver		
+Green Gram (Whole) / Name	2608	7800
+Jawari / Local / Jawari / Local (*)	5800	5800
+Medium / Medium (*)	6005	6005
+Green Peas / Peas		
+Green Peas / Raw Peas (*)	7000	8500
+Avare / Avare		
+Avare (Whole) / Avare (Whole) (*)	4000	5500
+Cowpea		
+Cowpea (Whole) / Cowpea (Whole) (*)	2811	5939
+Mataki / Pottery		
+Mataki (W) / Mataki (VOL) (*)	2569	2569
+Horse Gram / Bean Seed		
+Horse gram (Whole) / Beer (VOL) (*)	321	4800
+Tur Dal		
+Tur Dal / Purple (*)	6000	9500
+Bengal Gramdal		
+Bengal Gram Dal / Kadlebela (*)	5000	6100
+Black Gramdal		
+Black Gram Dal / Longhair (*)	6000	12000
+Green Gramdal / Name		
+Green Gram Dal / Name (*)	8300	8900
+Tur / tooth		
+Tur / Tool (*)	1611	5800
+White / White (*)	3269	3269
+Red / Red (*)	3600	5211
+Alasande Gram / Alasande Grain		
+Alasande Gram / Beauty Pageant (*)	2169	7500
+Chennangidal / Chennangi Dal		
+Chennagidal / Channagibale (*)	5300	5700
+Spices		
+Garlic / Garlic		
+Garlic / Garlic (*)	6500	13000
+Other / Other (*)	8000	16000
+Chilly Red / Red Chilli		
+Other / Other (*)	14000	16000
+Ginger / Ginger		
+Dry / Dry (*)	17500	19500
+Pepper / Pepper		
+Black Pepper / Black Pepper (*)	25000	34270
+Other / Other (*)	20000	32089
+Turmeric / Turmeric		
+Local / Local (*)	5500	7200
+Turmeric Stick / Turmeric Stick (*)	8000	13000
+Cumminseed / Cumin seed		
+Other / Other (*)	3019	5919
+Methi Seeds / Fenugreek Beja		
+Methiseeds / Fennel Seed (*)	4500	8000
+Coriander Seed / Dhania (Coriander Seed)		
+Coriander Seed / Grain Seed (*)	5302	13000
+Dry Chillies / Dry Chillies		
+Byadgi / Badagi (*)	5000	18000
+Dabbi (*)	1969	15000
+Mankattu / Mankattu (*)	12500	13000
+Kaddi / Stick (*)	1009	12689
+Local / Local (*)	2000	15000
+Guntur / Guntur (*)	610	15000
+Other / Other (*)	4861	16000
+Vegetables		
+Onion / Onion		
+Bombay (UP) / Bombay (UP) (*)	2085	2085
+Bellary Red / Bellary Small (*)	3800	4000
+Local / Local (*)	200	3000
+Onion / Onion (*)	300	5000
+Puna / Poona (*)	700	3500
+Telagi / Telagi (*)	300	2500
+Other / Other (*)	1200	3500
+Potato / Potatoes		
+Jalander (*)	1000	1500
+Local / Local (*)	1000	2900
+Potato / Potatoes (*)	829	2000
+Other / Other (*)	1200	2000
+Cauliflower / Cauliflower		
+Local / Local (*)	1000	1800
+Cauliflower / Cauliflower (*)	800	3500
+Brinjal / Eggplant		
+Round / Round (*)	350	1400
+Brinjal / Eggplant (*)	400	2000
+Other / Other (*)	1000	1200
+Coriander / Dhania		
+Local / Local (*)	4800	11000
+Tomato / Tomato		
+Tomato / Tomato (*)	133	3600
+Bitter Gourd / Cucumber		
+Bitter Gourd / Cucumber (*)	1200	3000
+Bottle Gourd / Gourds		
+Bottle Gourd / Gourd (*)	400	1800
+Ash Gourd / Gray Nut		
+Ashgourd / Gray (*)	800	1000
+Green Chilly / Green Chilli		
+Green Chilly / Green Chilli (*)	800	3200
+Chilly Capsicum / Roasted Chilli		
+Chilly Capsicum / Thick Chilli (*)	600	3200
+Cowpea (Veg) / Naughty		
+Cowpea (Veg) / Wonderful (*)	1400	1600
+Banana Green / Banana		
+Banana - Green (Balekai) / Balekai (*)	1000	3800
+Beans / Bean		
+Beans (Whole) / Beans (Whole) (*)	1000	6000
+Green Ginger / Raw Ginger		
+Green Ginger / Raw Ginger (*)	1300	9400
+Sweet Potato / Sweet Potato		
+Sweet Potato / Potato (*)	800	3000
+Carrot / Carrot		
+Pusakesar / Pusacker (*)	1000	2700
+Carrot / Carrot (*)	1300	4000
+Others / Other (*)	2500	3500
+Cabbage / Cabbage		
+Cabbage / Cabbage (*)	300	2400
+Ladies Finger / Beanbag		
+Ladies Finger / Gumbo (*)	900	3200
+Snakeguard / Padlock		
+Snakeguard / Pumpkin (*)	700	3000
+Beetroot / Beetroot		
+Beetroot / Beet Root (*)	600	2800
+White Pumpkin / Gray Nut		
+White Pumpkin / Gray Pumpkin (*)	800	2200
+Cucumbar / Cucumber		
+Cucumbar / Cucumber (*)	100	2500
+Ridgeguard / Harecaya		
+Ridgeguard / Hyacinth (*)	800	3200
+	
+Raddish / Radish (*)	400	2818
+Thondekai / Thondekai		
+Thondekai / Thondaekaai (*)	400	2000
+Capsicum / Thick chilli		
+Capsicum / Thick Chilli (*)	2000	5500
+Green Avare (W) / Her		
+Green Avare (W) / Peas (ED) (*)	1857	3000
+Alasandikai / Alasandikai		
+Alasandikai / * (*)	2400	3000
+Drum Stick / Cucumber		
+Drumstick / Cucumber (*)	1800	5500
+Chapparada Avare		
+Chapparada Avarekai / Blue Peas (*)	3000	4000
+Thogarikai / leather		
+Thogarikai / Leather (*)	4600	5000
+Sweet Pumpkin / Sweet Pumpkin		
+Sweet Pumpkin / Sweet Potato (*)	500	1000
+Peas Wet / Raw Peas		
+Peas Wet / Raw Peas (*)	10000	12000
+Seemebadanekai / ketchup		
+Seemebadanekai / chickpeas (*)	800	2000
+Knool Khol / Peacock		
+Knool Khol / Peacock (*)	1000	2600
+Suvarnagadde / succulent		
+Suvarnagadde / Golden Tuber (*)	750	3000
+Lime (Lemon) / Lemon		
+Lime (Lemon) / Lemon (*)	200	4100
+Bunch Beans / Gorokai		
+Bunch Beans / Gorokai (*)	1250	2800
